@@ -1,12 +1,5 @@
 {
-  "enabled": true,
-  "killSwitch": false,
-  "wipe": false,
-  "version": "1.0.0",
-
-  "steps": {
-    "scheme": true,
-    "form": true,
-    "locality": true
+  "scheme": {
+    "name": "DDA NAGRIK AWAAS YOJANA 2026"
   }
 }

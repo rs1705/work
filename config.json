@@ -5,7 +5,7 @@
   "version": "1.0.0",
 
   "steps": {
-    "scheme": false,
+    "scheme": true,
     "form": true,
     "locality": true
   }

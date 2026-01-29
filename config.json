@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "killSwitch": true,
+  "killSwitch": false,
   "wipe": false,
   "version": "1.0.0",
 
